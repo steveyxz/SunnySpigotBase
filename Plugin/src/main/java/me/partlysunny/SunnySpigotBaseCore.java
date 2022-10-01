@@ -91,6 +91,7 @@ public final class SunnySpigotBaseCore extends JavaPlugin {
             getDataFolder().mkdir();
         }
         //Initialise default config
+        copyFileWithName("config.yml");
     }
 
     private void copyFileWithName(String key) throws IOException {
