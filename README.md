@@ -1,0 +1,18 @@
+![logo](https://i.imgur.com/F4mnlBO.png)
+
+## SunnySpigotBase plugin, the new fully customisable lucky blocks plugin
+
+### Ever felt the need for a free, yet simple lucky blocks plugin? Well you've found it. SunnySpigotBase is a fully customisable easy to use lucky blocks plugin. Create new blocks incredibly easily with no coding required!
+
+### Just download the plugin in the versions tab and launch your server with the plugin installed and play!
+
+### Current features include
+
+**For more info visit https://www.spigotmc.org/threads/simpleluckyblocks.558142/**
+
+- Custom lucky blocks
+- Custom loot
+- Particle effects
+- Commands
+- Customisable wands
+- FULLY customisable lucky blocks with intuitive config system (ingame UI coming soon :D)
